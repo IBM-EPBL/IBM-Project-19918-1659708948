@@ -2,10 +2,12 @@
 Fertilizers Recommendation System For Disease Prediction
 
 Introduction:
+
 Fertilizer Recommentation system for disease Prediction is a simple ML and DL based website which recommends the best crop to grow, 
 fertilizers to use and the diseases caught by your crops.
 
 Project Description:
+
 Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. 
 Diseases on plants placed a major constraint on the production and a major threat to food security.
 Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. 
@@ -33,6 +35,12 @@ Architecture Diagram:
 Team Members:
 
 Kaajal Krishnamurthy 
+
+
 Harish Kumar 
+
+
 Jakkala Jashwanth 
+
+
 Shakthi Sarathi 
